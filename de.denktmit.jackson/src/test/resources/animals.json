@@ -1,0 +1,15 @@
+{
+  "type": "aquaviary",
+  "animals": [
+    {
+      "name": "Tweety",
+      "age": 79,
+      "wingspan": 2.9
+    },
+    {
+      "name": "Nemo",
+      "age": 16,
+      "freshwater": false
+    }
+  ]
+}
